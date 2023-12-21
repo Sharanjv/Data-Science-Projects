@@ -18,6 +18,9 @@ The acquisition of home features data involved leveraging the Realty Mole API th
 
 The demographic data was sourced from the American Community Survey Data available on census.gov, gathered specifically at the census tract level. These tracts are structured to maintain homogeneity concerning population characteristics, economic status, and living conditions. After assessing their correlation with sale prices, the chosen variables integrated into the model include median household income, median value of owner-occupied units, percentage of employed population, percentage of minority population, and median age.
 
+![image](https://github.com/Sharanjv/Data-Science-Projects/assets/17241845/39ad9523-472d-43ca-a733-f9167bf54f55)
+
+
 **Satellite Imagery:**
 
 The satellite imagery for the homes within the dataset was obtained using the Mapbox Static Images API. This API enables the retrieval of satellite imagery based on latitude and longitude inputs. Notably, this API offers images at various zoom levels, providing diverse perspectives of the surroundings. At closer zoom levels, the satellite images show detailed characteristics of the immediate vicinity surrounding a home. Conversely, at lower zoom levels, the satellite images offer a broader perspective, portraying general neighborhood characteristics and attributes. I used two zoom levels for each home in my dataset to train the model.
