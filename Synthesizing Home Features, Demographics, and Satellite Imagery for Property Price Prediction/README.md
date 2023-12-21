@@ -1,4 +1,5 @@
 **Summary**
+
 Home buyers or investors consider not just the features of a home, but also other factors related to the location of the home to make a purchase decision. My model is an attempt to build a price estimator model that is trained with home features, demographics, and features from the satellite imagery of the home.
 
 **Problem Statement**
