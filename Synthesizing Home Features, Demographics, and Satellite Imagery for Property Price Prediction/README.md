@@ -8,7 +8,15 @@ Making informed decisions in real estate involves considering various elements b
 
 **Project Scope:**
 
-For this estimation model, I focused specifically on the Philadelphia metro area, leveraging my familiarity with the region. The model's boundary was defined within a 25-mile radius around Philadelphia, encapsulating the diverse real estate landscape within this area. To streamline the analysis and ensure dataset consistency, I opted to include only single-family homes. 
+For this estimation model, I focused specifically on the Philadelphia metro area, leveraging my familiarity with the region. The model's boundary was defined within a 25-mile radius around Philadelphia, encapsulating the diverse real estate landscape within this area. To streamline the analysis and ensure dataset consistency, I opted to include only single-family homes.
+
+**Project Flow Chart**
+
+![image](https://github.com/Sharanjv/Data-Science-Projects/assets/17241845/f50c9d90-e0cf-4717-8d29-5cb64455d19c)
+
+
+
+
 
 **Home Features Dataset:**
 
