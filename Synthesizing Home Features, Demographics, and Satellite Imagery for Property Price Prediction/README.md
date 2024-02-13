@@ -30,7 +30,7 @@ The satellite imagery for the homes within the dataset was obtained using the Ma
 
 **Pre-Trained Convolutional Neural Network Model:**
 
-Following the data ingestion procedures, I employed the VGG16 pre-trained deep convolutional neural network to extract features from satellite imagery. Each image yielded an extensive feature set, comprising over 25,000 distinct features. To manage the high dimensionality, a Principal Component Analysis (PCA) transformer was utilized to effectively reduce the feature matrix's dimensions while retaining essential information.
+Following the data ingestion procedures, I employed the VGG16 pre-trained deep convolutional neural network to extract features from satellite imagery. Each image yielded an extensive feature set. To manage the high dimensionality, a Principal Component Analysis (PCA) transformer was utilized to effectively reduce the feature matrix's dimensions while retaining essential information.
 
 **Ridge Linear Regressor:**
 
